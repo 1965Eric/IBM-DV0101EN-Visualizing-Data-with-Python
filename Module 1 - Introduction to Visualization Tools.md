@@ -15,4 +15,5 @@ In this lesson you will learn about:
 
 ## Introduction to Matplotlib and Line Plots
 
-[Introduction to Matplotlib and Line Plots]
+[Introduction to Matplotlib and Line Plots](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/DV0101EN-Exercise-Introduction-to-Matplotlib-and-Line-Plots.ipynb)
+
