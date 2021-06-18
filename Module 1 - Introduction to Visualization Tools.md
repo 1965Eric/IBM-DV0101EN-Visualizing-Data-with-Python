@@ -17,3 +17,23 @@ In this lesson you will learn about:
 
 [Introduction to Matplotlib and Line Plots](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/DV0101EN-Exercise-Introduction-to-Matplotlib-and-Line-Plots.ipynb)
 
+## Graded Quiz
+
+Question 1: Using the inline backend, you can modify a figure after it is rendered.
+
+- A. [ ] True
+- B. [X] False
+
+Question 2: Which of the following are examples of Matplotlib magic functions? Choose all that apply.
+
+- A. [X] %matplotlib inline
+- B. [ ] #matplotlib notebook
+- C. [ ] $matplotlib outline
+- D. [X] %matplotlib notebook
+- E. [ ] #matplotlib inline
+
+Question 3: Matplotlib was created by John Hunter, an American neurobiologist, and was originally developed as an EEG/ECoG visualization tool.
+
+- A. [X] True
+- B. [ ] False
+
