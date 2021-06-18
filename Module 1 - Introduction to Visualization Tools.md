@@ -12,3 +12,7 @@ In this lesson you will learn about:
 * Read CSV files into a Pandas DataFrame; process and manipulate the data in the DataFrame; and generate line plots using Matplotlib
 
 [Matplotlib Architecture](https://aosabook.org/en/matplotlib.html)
+
+## Introduction to Matplotlib and Line Plots
+
+[Introduction to Matplotlib and Line Plots]
