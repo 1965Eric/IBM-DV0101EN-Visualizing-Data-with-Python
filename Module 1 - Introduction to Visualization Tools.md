@@ -11,3 +11,4 @@ In this lesson you will learn about:
 * Apply Matplotlib to create plots using Jupyter notebooks
 * Read CSV files into a Pandas DataFrame; process and manipulate the data in the DataFrame; and generate line plots using Matplotlib
 
+[Matplotlib Architecture](https://aosabook.org/en/matplotlib.html)
