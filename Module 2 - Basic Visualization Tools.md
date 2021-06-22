@@ -12,3 +12,50 @@ In this lesson you will learn about:
 * Create pie charts using Matplotlib
 * Create a box plot using Matplotlib
 
+## Basic Visualization Tools
+
+[Basic Visualization Tools](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts-py.ipynb)
+
+## Graded Quiz
+
+Question 1: Area plots are stacked by default.
+
+- A. [X] True
+- B. [ ] False
+
+Question 2: Given a *pandas* series, **series_data**, which of the following will create a histogram of series_data and align the bin edges with the horizontal tick marks?
+
+- A. [ ]
+
+```
+count, bin_edges = np.histogram(series_data)
+series_data.plot(kind='hist', xticks = count, bin_edges)
+```
+
+- B. [ ]
+
+```
+count, bin_edges = np.histogram(series_data)
+series_data.plot(kind='hist', xticks = count)
+```
+
+- C. [X]
+
+```
+count, bin_edges = np.histogram(series_data)
+series_data.plot(kind='hist', xticks = bin_edges)
+```
+
+- D. [ ] 
+
+```
+series_data.plot(kind='hist')
+```
+
+Question 3: Given a *pandas* dataframe, **question**, which of the following will create a horizontal barchart of the data in **question**?
+
+- A. [ ] ```question.plot(type='bar', rot=90)```
+- B. [ ] ```question.plot(kind='bar', orientation='horizontal')```
+- C. [X] ```question.plot(kind='barh')```
+- D. [ ] ```question.plot(kind='bar')```
+
