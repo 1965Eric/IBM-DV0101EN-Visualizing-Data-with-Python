@@ -6,3 +6,5 @@ In this lesson you will learn about:
 * Box plots, and how to create them with Matplotlib.  
 * Scatter plots and bubble plots, and how to create them with Matplotlib.
 
+[Pie Chart or Bar Chart?](https://www.alchemer.com/resources/blog/pie-chart-or-bar-graph/)
+
