@@ -8,3 +8,4 @@ In this lesson you will learn about:
 
 [Pie Chart or Bar Chart?](https://www.alchemer.com/resources/blog/pie-chart-or-bar-graph/)
 
+## Specialized Visualization Tools
