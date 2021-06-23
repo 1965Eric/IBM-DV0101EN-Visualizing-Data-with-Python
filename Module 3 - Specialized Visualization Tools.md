@@ -10,6 +10,7 @@ In this lesson you will learn about:
 
 ## Specialized Visualization Tools
 
+[Specialized Visualization Tools]
 
 ## Graded Quiz
 
