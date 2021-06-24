@@ -10,7 +10,7 @@ In this lesson you will learn about:
 
 ## Specialized Visualization Tools
 
-[Specialized Visualization Tools]
+[Specialized Visualization Tools](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/DV0101EN-Exercise-Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots-py.ipynb)
 
 ## Graded Quiz
 
