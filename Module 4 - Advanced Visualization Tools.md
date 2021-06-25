@@ -22,6 +22,9 @@ In this lesson you will learn about:
 
 Question 1: Which of the choices below will create the following regression line plot, given a *pandas* dataframe, **data_dataframe**?
 
+<img width="544" alt="Screen_Shot_2017-07-24_at_9 25 35_AM" src="https://user-images.githubusercontent.com/17474099/123453719-1a907f00-d5e0-11eb-8c49-89eb0748ae40.png">
+
+
 - A. [ ]
 
 ```
