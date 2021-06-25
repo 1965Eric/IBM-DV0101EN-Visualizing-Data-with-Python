@@ -15,3 +15,5 @@ In this lesson you will learn about:
 ## Waffle Charts, Word Clouds, and Regression Plots
 
 [Waffle Charts, Word Clouds, and Regression Plots]()
+
+[PyWaffle]() is an open source, MIT-licensed Python package for plotting waffle charts.
