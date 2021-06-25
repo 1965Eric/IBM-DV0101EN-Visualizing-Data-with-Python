@@ -16,4 +16,47 @@ In this lesson you will learn about:
 
 [Waffle Charts, Word Clouds, and Regression Plots](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/DV0101EN-Exercise-Waffle-Charts-Word-Clouds-and-Regression-Plots-py.ipynb)
 
-[PyWaffle]() is an open source, MIT-licensed Python package for plotting waffle charts.
+[PyWaffle](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/PyWaffle.ipynb) is an open source, MIT-licensed Python package for plotting waffle charts.
+
+## Graded Quiz
+
+Question 1: Which of the choices below will create the following regression line plot, given a *pandas* dataframe, **data_dataframe**?
+
+- A. [ ]
+
+```
+import seaborn as sns
+ax = sns.regplot(x="year", y="total", data=data_dataframe, color="green")
+```
+
+- B. [ ]
+
+```
+data_dataframe.plot(kind="regression", color="green", marker="+")
+```
+
+- C. [X]
+
+```
+import seaborn as sns
+ax = sns.regplot(x="year", y="total", data=data_dataframe, color="green", marker="+")
+```
+
+- D. [ ]
+
+```
+data_dataframe.plot(kind="regplot", color="green", marker="+")
+```
+
+- E. [ ]
+
+```
+import seaborn as sns
+ax = sns.regplot(x="total", y="year", data=data_dataframe, color="green")
+```
+
+Question 2: In Python, creating a waffle chart is straightforward since we can easily create one using the scripting layer of Matplotlib.
+
+- A. [ ] True
+- B. [X] False
+
