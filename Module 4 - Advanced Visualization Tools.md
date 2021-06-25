@@ -11,3 +11,7 @@ In this lesson you will learn about:
 * Explain how to use the Folium, for visualizing geospatial data.
 * Use Folium to create maps and superpose markers.
 * Create Choropleth Maps with Folium.
+
+## Waffle Charts, Word Clouds, and Regression Plots
+
+[Waffle Charts, Word Clouds, and Regression Plots]()
