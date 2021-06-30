@@ -6,6 +6,8 @@ In this lesson you will learn about:
 * Creating maps of different regions of the world and how to superimpose markers on top of a map.
 * Creating Choropleth maps with Folium.
 
+## Generating Maps in Python
+
 [Generating Maps in Python](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/DV0101EN-Exercise-Generating-Maps-in-Python-py.ipynb)
 
 ## Graded Quiz
