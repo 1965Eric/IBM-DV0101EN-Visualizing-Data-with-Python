@@ -10,3 +10,12 @@ In this module, you will get started with dashboard creation using the Plotly li
 * Demonstrate adding different dashboard elements including text boxes, dropdowns, graphs, and others.
 * Apply interactivity to dash core and HTML components.
 * Describe how a dashboard can be used to answer critical business questions.
+
+## Additional Resources for Dashboards
+
+For more information about Dashboards, visit the following links:
+
+[Python dashboarding tools](https://pyviz.org/dashboarding/)
+
+[John Snow's data journalism](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map)
+
