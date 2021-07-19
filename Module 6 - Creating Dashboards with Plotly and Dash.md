@@ -41,3 +41,5 @@ Here are additional useful resources:
 
 [Open-source datasets](https://developer.ibm.com/exchanges/data/)
 
+## Plotly Basics - Scatter, Line, Bar, Bubble, Histogram, Pie, Sunburst
+
