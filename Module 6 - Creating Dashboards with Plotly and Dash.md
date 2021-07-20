@@ -61,4 +61,6 @@ To learn more about Dash, explore:
 
 ## Dash Basics - HTML and Core Components, Multiple Charts
 
-[Dash Basics]
+[Dash Basics](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/dash_basics.py)
+
+
