@@ -43,4 +43,6 @@ Here are additional useful resources:
 
 ## Plotly Basics - Scatter, Line, Bar, Bubble, Histogram, Pie, Sunburst
 
-[Plotly Basics]
+[Plotly Basics](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/DV0101EN-Plotly-Basics.ipynb)
+
+
