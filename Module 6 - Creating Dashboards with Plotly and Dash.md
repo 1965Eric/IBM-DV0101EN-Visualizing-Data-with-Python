@@ -77,3 +77,6 @@ To learn more about making interactive dashboards in Dash, visit:
 
 [Dash community components](https://plotly.com/dash-community-components/)
 
+## Add interactivity: user input and callbacks
+
+Add interactivity
