@@ -63,4 +63,17 @@ To learn more about Dash, explore:
 
 [Dash Basics](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/dash_basics.py)
 
+## Additional Resources for Interactive Dashboards
+
+To learn more about making interactive dashboards in Dash, visit:
+
+[Python decorators reference 1](https://realpython.com/primer-on-python-decorators/)
+
+[Python decorators reference 2](https://www.python.org/dev/peps/pep-0318/#current-syntax)
+
+[Callbacks with example](https://dash.plotly.com/basic-callbacks)
+
+[Dash app gallery](https://dash-gallery.plotly.host/Portal/)
+
+[Dash community components](https://plotly.com/dash-community-components/)
 
