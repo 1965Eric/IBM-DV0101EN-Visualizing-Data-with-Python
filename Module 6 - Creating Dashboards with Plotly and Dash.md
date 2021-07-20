@@ -43,3 +43,4 @@ Here are additional useful resources:
 
 ## Plotly Basics - Scatter, Line, Bar, Bubble, Histogram, Pie, Sunburst
 
+[Plotly Basics]
