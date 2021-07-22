@@ -96,5 +96,5 @@ Flight Delay Time Statistics Dashboard
 * Core and HTML are the two components of Dash. 
 * The dash_html_components library has a component for every HTML tag. 
 * The dash_core_components describe higher-level components that are interactive and are generated with JavaScript, HTML, and CSS through the React.js library. 
-* A callback function is a python function that is automatically called by Dash whenever an input component's property changes. Callback function is decorated with $@app.callback$ decorator. 
+* A callback function is a python function that is automatically called by Dash whenever an input component's property changes. Callback function is decorated with ```@app.callback``` decorator. 
 * Callback decorator function takes two parameters: Input and Output. Input and Output to the callback function will have component id and component property. Multiple inputs or outputs should be enclosed inside either a list or tuple. 
