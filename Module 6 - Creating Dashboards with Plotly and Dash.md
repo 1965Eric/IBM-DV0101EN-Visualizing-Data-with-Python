@@ -98,3 +98,39 @@ Flight Delay Time Statistics Dashboard
 * The dash_core_components describe higher-level components that are interactive and are generated with JavaScript, HTML, and CSS through the React.js library. 
 * A callback function is a python function that is automatically called by Dash whenever an input component's property changes. Callback function is decorated with ```@app.callback``` decorator. 
 * Callback decorator function takes two parameters: Input and Output. Input and Output to the callback function will have component id and component property. Multiple inputs or outputs should be enclosed inside either a list or tuple. 
+
+## Graded Quiz
+
+Question 1: Plotly express is a ________ wrapper
+
+- A. [ ] Low-level
+- B. [X] High-level
+
+Question 2: ```@app_callback``` is the callback decorator.
+
+- A. [ ] True
+- B. [X] False
+
+Question 3: Choose correct way of adding callback decorator:
+
+- A. [ ] 
+
+```
+@app.callback[Output(component_id='bar-plot', component_property='figure’),
+Input(component_id='input-yr', component_property='value')]
+```
+
+- B. [X] 
+
+```
+@app.callback( Output(component_id='bar-plot', component_property='figure’),
+Input(component_id='input-yr', component_property='value'))
+```
+
+- C. [ ]
+
+```
+@app.callback( Output{component_id='bar-plot', component_property='figure’},
+Input{component_id='input-yr', component_property='value'})
+```
+
