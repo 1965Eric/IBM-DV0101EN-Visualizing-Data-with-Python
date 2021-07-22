@@ -79,4 +79,6 @@ To learn more about making interactive dashboards in Dash, visit:
 
 ## Add interactivity: user input and callbacks
 
-Add interactivity
+[Add interactivity](https://github.com/1965Eric/IBM-DV0101EN-Visualizing-Data-with-Python/blob/main/dash_interactivity.py)
+
+
