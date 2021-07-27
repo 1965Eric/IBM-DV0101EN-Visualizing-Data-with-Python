@@ -10,7 +10,7 @@ Question 2: The three layers that make up the _________ architecture are the bac
 
 - A. [ ] Pyplot
 - B. [ ] Matlab
-- C. [ ] - B. [ ] Seaborn
+- C. [ ] Seaborn
 - D. [X] Matplotlib
 
 Question 3: What layer allows full control and fine-tuning of the Matplotlib – the top-level container for all plot elements?
